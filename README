@@ -1,0 +1,5 @@
+This is a front end to the Parser/Parsing library. It provides a grammar and
+other nifty feature. This library is required for the Parsing library to
+compile.
+
+This library is licensed under the BSD license
